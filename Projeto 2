@@ -1,0 +1,39 @@
+Passo 1: Iniciar o Projeto
+Acesse o Microsoft Copilot Studio.
+
+Crie um novo projeto ou abra um projeto existente para personalizar um copiloto.
+
+Passo 2: Criar um Copiloto do Zero
+Inicie um copiloto em branco para começar do zero.
+
+Nomeie o copiloto e configure as informações gerais.
+
+Passo 3: Customizar Tópicos
+Na aba de tópicos, crie ou personalize os fluxos de conversa.
+
+Adicione perguntas, defina variáveis e vincule entidades para capturar as informações dos usuários.
+
+Personalize as transições e conexões entre os tópicos para criar uma conversa fluida.
+
+Passo 4: Configurar Respostas Generativas
+Ative as respostas generativas para tópicos relevantes.
+
+Defina um prompt bem estruturado que oriente a IA a gerar respostas contextuais e personalizadas.
+
+Passo 5: Ajustar a Qualidade da Resposta
+Use os parâmetros de temperatura e top-p para ajustar a criatividade e a precisão das respostas geradas pela IA.
+
+Passo 6: Testar o Fluxo
+Execute testes para verificar se os fluxos de conversa funcionam como esperado.
+
+Certifique-se de que as variáveis e entidades estão sendo capturadas e processadas corretamente.
+
+Passo 7: Personalizar Mensagens de Erro
+Adicione mensagens de erro personalizadas para cenários de falha na entrada do usuário.
+
+Isso ajuda a manter a interação amigável e clara.
+
+Passo 8: Publicar e Refinar
+Publique o copiloto para que ele fique disponível para uso.
+
+Monitore o desempenho e faça ajustes com base no feedback dos usuários.
